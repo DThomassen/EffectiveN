@@ -1,2 +1,2 @@
 # EffectiveN
-Effective sample sizes to express individual prediction uncertainty
+Effective sample size of individual risk predictions: quantifying uncertainty in machine learning algorithms
